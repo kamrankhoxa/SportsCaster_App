@@ -1,0 +1,132 @@
+
+<Card key={`newsfeed-1`}>
+  {/* <>{console.log(attributes.image.data)}</> */}
+  <Card.Cover
+    source={{
+      uri: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6eXzZKaC9GlRuwICZemB8UbiJHcdaaDeke-8pClCxJPbHVaaT0UyyhP2zM21kn_TjcPtlH8AZIxZzOIovdyn9Z2CU3M0PZYcw_82xMbGbm2vcAtYohOm7_1EON7XaNI9MtbFbWCQFZYeYVKNBv7YuMtZ2XDpNiDmru86y6xmAcRAzhR2ukF0XZEI0/w640-h360/Most-Runs-in-Test-for-Pakistan.jpeg",
+      // uri: API+`${NewsFeedImageData.attributes.formats.small.url}`,
+    }}
+  />
+  <Card.Content>
+    <Paragraph>
+      Top 10 Most Wickets in Test for Pakistan 2023 Bowling Stats -
+      Here is the list of Most Wickets taker by a Bowlers in in Test
+      for Pakistan 2023.
+    </Paragraph>
+    <Divider></Divider>
+    <View style={{ flexDirection: "row" }}>
+      <Text style={styles.bodySmall}></Text>
+      <Text
+        style={{
+          flex: 1,
+          fontSize: 12,
+          lineHeight: 25,
+          color: "#9394B3",
+          textAlign: "right",
+        }}
+      >
+      </Text>
+    </View>
+  </Card.Content>
+  <Card.Actions>
+    {/* <Button>Add To Favourites</Button> */}
+    <Button
+      style={{ marginLeft: 10 }}
+      mode="elevated"
+      // onPress={() => console.log(`id: ${id}`)}
+    >
+      Like
+    </Button>
+  </Card.Actions>
+</Card>
+         <Card key={`newsfeed-2323`}>
+            {/* <>{console.log(attributes.image.data)}</> */}
+            <Card.Cover
+            
+          source={{
+            uri: "https://pakobserver.net/wp-content/uploads/2023/03/345363.webp",
+            // uri: API+`${NewsFeedImageData.attributes.formats.small.url}`,
+          }}
+        />
+            <Card.Content>
+              <Paragraph>The 2023 Asia Cup continues to become a major headache for the Pakistan Cricket Board (PCB) after India’s constant refusal to travel to Pakistan to participate in the tournament.</Paragraph>
+            </Card.Content>
+            <Card.Actions>
+              {/* <Button>Add To Favourites</Button> */}
+              <Button
+            style={{ marginLeft: 10 }}
+            mode="elevated"
+            // onPress={() => console.log(`id: ${id}`)}
+            >
+              Like
+          </Button>
+            </Card.Actions>
+          </Card>
+
+          <Card key={`newsfeed-232`}>
+            {/* <>{console.log(attributes.image.data)}</> */}
+            <Card.Cover
+          source={{
+            uri: "https://imgnew.outlookindia.com/public/uploads/articles/2021/12/10/PSL-Trade-PSL.jpg",
+            // uri: API+`${NewsFeedImageData.attributes.formats.small.url}`,
+          }}
+        />
+            <Card.Content>
+              <Paragraph>The entirety of PSL 2022, which starts on January 27, will be played in Pakistan. Shahid Afridi had previously played for Peshawar Zalmi, Karachi Kings and Multan Sultans. Quetta Gladiators are his fourth team in the PSL.</Paragraph>
+            </Card.Content>
+            <Card.Actions>
+              {/* <Button>Add To Favourites</Button> */}
+              <Button
+            style={{ marginLeft: 10 }}
+            mode="elevated"
+            // onPress={() => console.log(`id: ${id}`)}
+            >
+              Like
+          </Button>
+            </Card.Actions>
+          </Card>
+          <Card key={`newsfeed-23`}>
+            {/* <>{console.log(attributes.image.data)}</> */}
+            <Card.Cover
+          source={{
+            uri: "https://propakistani.pk/wp-content/uploads/2023/01/PSL-8-main.jpg",
+            // uri: API+`${NewsFeedImageData.attributes.formats.small.url}`,
+          }}
+        />
+            <Card.Content>
+              <Paragraph>The Pakistan Cricket Board (PCB) has announced the official schedule for the eighth edition of the Pakistan Super League (PSL). Pakistan’s premier T20 tournament is set to commence on 13 February while the final of the tournament will be held on 19 March.</Paragraph>
+            </Card.Content>
+            <Card.Actions>
+              {/* <Button>Add To Favourites</Button> */}
+              <Button
+            style={{ marginLeft: 10 }}
+            mode="elevated"
+            // onPress={() => console.log(`id: ${id}`)}
+            >
+              Like
+          </Button>
+            </Card.Actions>
+          </Card>
+          <Card key={`newsfeed-2`}>
+            {/* <>{console.log(attributes.image.data)}</> */}
+            <Card.Cover
+          source={{
+            uri: "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_960/lsci/db/PICTURES/CMS/322900/322987.6.jpg",
+            // uri: API+`${NewsFeedImageData.attributes.formats.small.url}`,
+          }}
+        />
+            <Card.Content>
+              <Paragraph>Munro, Khawaja string fastest century stand as United seal biggest PSL win
+Statistical highlights from Islamabad United's ten-wicket win over Quetta Gladiators in Abu Dhabi</Paragraph>
+            </Card.Content>
+            <Card.Actions>
+              {/* <Button>Add To Favourites</Button> */}
+              <Button
+            style={{ marginLeft: 10 }}
+            mode="elevated"
+            // onPress={() => console.log(`id: ${id}`)}
+            >
+              Like
+          </Button>
+            </Card.Actions>
+          </Card>
