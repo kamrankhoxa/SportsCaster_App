@@ -1,12 +1,36 @@
-# Sample Snack app
+# SportCaster Mobile App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+SportCaster is a mobile application built using React Native that allows users to view, add, edit, and delete sports highlights, news, and headlines. The backend for this application is powered by Strapi, enabling easy content management and CRUD operations.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+## 🚀 Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- **View Sports Highlights**: Users can view the latest sports highlights.
+- **Read News and Headlines**: Access the latest sports news and headlines.
+- **Add Content**: Users can add new sports highlights, news, and headlines.
+- **Edit Content**: Update existing sports content as needed.
+- **Delete Content**: Remove outdated or irrelevant sports content.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+## 🛠️ Technologies Used
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
-# SportsCaster_App
+- **React Native**: Frontend for the mobile application.
+- **Strapi**: Backend for content management and CRUD operations.
+
+## 📱 Screenshots
+
+<!-- Add screenshots of your app here -->
+
+## 📝 Getting Started
+
+To get started with SportCaster Mobile App, follow these steps:
+
+### Prerequisites
+
+1. Node.js and npm installed on your local machine.
+2. Strapi server up and running.
+
+### Installation
+
+1. Clone this repository.
+
+```bash
+git clone https://github.com/kamrankhoxa/SportsCaster_App.git
